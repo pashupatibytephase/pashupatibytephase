@@ -1,6 +1,6 @@
 
 - 🌱 I’m currently learning ...
-- .
+
 
 <!---
 pashupatibytephase/pashupatibytephase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
